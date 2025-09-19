@@ -29,7 +29,7 @@ Kariyer hedefim: **Mobil uygulama geliştirme ve iş/sistem analistliği alanın
 Oda arkadaşları için görev paylaşımı ve yaşam düzeni sağlayan mobil uygulama.  
 - Görev atama, döngüsel sorumluluk takibi, puanlama ve RooScore algoritması  
 - Firestore güvenlik kuralları, bildirim senaryoları ve profil ekranı  
-🔗 [RooMate Repo](https://github.com/sdbyzcy/roomate_app)
+   [RooMate Repo](https://github.com/sdbyzcy/roomate_app)
 
 ---
 
@@ -60,5 +60,5 @@ HasCoding platformu için geliştirilen mobil istemci.
 ---
 
 ## İletişim
-- 📧 E-posta: [caysude@gmail.com](mailto:caysude@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/sudebeyzacay](https://www.linkedin.com/in/sudebeyzacay)  
+-  E-posta: [caysude@gmail.com](mailto:caysude@gmail.com)  
+-  LinkedIn: [linkedin.com/in/sudebeyzacay](https://www.linkedin.com/in/sudebeyzacay)  
